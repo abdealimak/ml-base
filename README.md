@@ -1,4 +1,6 @@
-Topics : Logistic Regression
+Topics :
+
+Logistic Regression
 
 Linear Regression
 
@@ -15,4 +17,3 @@ K-NN
 K-Means
 
 Neural Networks
-
