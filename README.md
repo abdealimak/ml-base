@@ -18,6 +18,8 @@ K-Means
 
 Neural Networks
 
+-----------------------------------------------------------------------
+
 Concepts :
 
 Convex Optimisation
